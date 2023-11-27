@@ -7,28 +7,29 @@ h1 {
 p {
     text-align: justify;
     font-size: 20px;
-    color: #050001
+    color: #050001;
 }
 
 body {  
-    background: #d0549a:
+    background: #d0549a;
 }
 
 #titulo1 {
     text-align: center;
     font-size: 50px;
-    color:#c15b6f}
+    color:#c15b6f;
+}
 
 
     .p1{
         text-align: justify;
         font-size: 20px;
-        color: rgb(232, 126, 147)
+        color: rgb(232, 126, 147);}
 
     .p2{
         text-align: justify;
         font-size: 20px;
-        color: #ec9999cc}
+        color: #ec9999cc;}
 
     #img1{
         display: block;
@@ -37,7 +38,7 @@ body {
     #titulo2{
         text-align: center;
         font-size: 30px;
-        color:#c15b6f}
+        color:#c15b6f;}
 
     .ul{
         display: inline-block;
@@ -54,12 +55,12 @@ body {
     header{
         text-align: center;
         font-size: 50px;
-        color:rgb(232, 126, 147)
+        color:rgb(232, 126, 147);
     }
 
     .principal{
         background:rgb(216, 156, 166);}
 
         .beneficios{
-            background:#e8aeb9}
+            background:#e8aeb9;}
 
