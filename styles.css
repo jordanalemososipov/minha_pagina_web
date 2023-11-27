@@ -22,7 +22,7 @@ body {
     .p1{
         text-align: justify;
         font-size:20px;
-        color: #836767cc}
+        color: rgb(232, 126, 147)
 
     .p2{
         text-align: justify;
@@ -53,7 +53,7 @@ body {
     header{
         text-align: center;
         font-size: 50px;
-        color:#b25b6d
+        color:rgb(232, 126, 147)
     }
 
     .principal{
