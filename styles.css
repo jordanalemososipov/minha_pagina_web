@@ -22,12 +22,12 @@ body {
     .p1{
         text-align: justify;
         font-size:20px;
-        color: #d09494cc}
+        color: #836767cc}
 
     .p2{
         text-align: justify;
         font-size:20px;
-        color: #f4cacacc}
+        color: #ec9999cc}
 
     #img1{
         display: block;
@@ -36,7 +36,7 @@ body {
     #titulo2{
         text-align: center;
         font-size: 30px;
-        color:#c38491}
+        color:#e39eac}
 
     .ul{
         display: inline-block;
@@ -57,8 +57,8 @@ body {
     }
 
     .principal{
-        background:rgb(151, 126, 130);}
+        background:rgb(216, 156, 166);}
 
         .beneficios{
-            background:#c398a0}
+            background:#e8aeb9}
 
