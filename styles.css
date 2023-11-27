@@ -17,7 +17,8 @@ body {
 #titulo1 {
     text-align: center;
     font-size: 50px;
-    color:rgb(223, 166, 222);}
+    color:#c15b6f}
+
 
     .p1{
         text-align: justify;
@@ -36,7 +37,7 @@ body {
     #titulo2{
         text-align: center;
         font-size: 30px;
-        color:#e39eac}
+        color:#c15b6f}
 
     .ul{
         display: inline-block;
